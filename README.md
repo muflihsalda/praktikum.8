@@ -2,6 +2,9 @@
 Nama :Muflih Salda Maulana <P>
 nim  :312410527 <p>
 kelas:TI 24 A5 <p>
+# DIAGRAM CLASS
+![image](https://github.com/user-attachments/assets/b7879013-fab4-406c-b3e5-9876fd081ad0)
+
 # FLOWCHART 
 ![flowchart](https://github.com/user-attachments/assets/aab21970-0ae3-4da2-8957-b976f6b69bd0)
 
