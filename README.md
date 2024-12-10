@@ -13,11 +13,8 @@ Kelas ini memiliki atribut daftar_mahasiswa, yang merupakan daftar untuk menyimp
 Metode tambah, tampilkan, hapus, dan ubah digunakan untuk mengelola data mahasiswa.
 
 2. Metode __init__
-
-Verify
-Copy code
 def __init__(self):
-    self.daftar_mahasiswa = []
+self.daftar_mahasiswa = []
     
 Konstruktor: Metode __init__ adalah konstruktor yang dipanggil saat objek dari kelas Mahasiswa dibuat.
 Atribut daftar_mahasiswa: Atribut ini adalah list kosong yang akan digunakan untuk menyimpan data mahasiswa dalam bentuk dictionary, di mana setiap dictionary berisi nama dan nilai.
