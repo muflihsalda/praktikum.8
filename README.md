@@ -52,7 +52,5 @@ Fungsi: Metode ini digunakan untuk mengubah nilai mahasiswa berdasarkan nama.
 Proses: Melakukan iterasi pada daftar_mahasiswa untuk mencari mahasiswa dengan nama yang sesuai. Jika ditemukan, nilai mahasiswa diubah dan pesan konfirmasi ditampilkan. Jika tidak ditemukan, pesan yang sesuai ditampilkan.
 
 # HASIL PROGRAM
-![hasil program2](https://github.com/user-attachments/assets/e9cdf0bc-b4f5-42ea-a2f0-5820584ad64f)
 ![hasil program2](https://github.com/user-attachments/assets/96a248d1-d358-49e8-89bd-ce9879e6a23b)
-
-
+![hasil program2](https://github.com/user-attachments/assets/e9cdf0bc-b4f5-42ea-a2f0-5820584ad64f)
