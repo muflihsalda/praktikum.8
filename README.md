@@ -1,7 +1,7 @@
 # praktikum.8
 Nama :Muflih Salda Maulana <P>
-nim  :312410527 <p>
-kelas:TI 24 A5 <p>
+Nim  :312410527 <p>
+Kelas:TI 24 A5 <p>
 # DIAGRAM CLASS
 ![image](https://github.com/user-attachments/assets/b7879013-fab4-406c-b3e5-9876fd081ad0)
 
